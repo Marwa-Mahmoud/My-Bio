@@ -1,0 +1,52 @@
+
+body{
+
+	font-family: Gorgia, "Times New Roman" ;
+	font-size: 18px;
+	line-height: 150%;
+	background-color: #efeee7;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	text-align: center;
+	background-color: black;
+	color: #efeee7;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin: 0;
+
+}
+
+
+
+a {
+	color: red;
+}
+.container{
+
+	width: 1100px;
+	margin: 0 auto;
+
+}
+#bio-image{
+
+	height: 200px;
+	width: 200px;
+	float: left;
+	margin-right: 20px;
+}
+
+#main-info {
+
+	width: 70%;
+	float: left;
+}
+
+#contact-info{
+
+	width: 30%;
+	float: left;
+
+}
